@@ -70,7 +70,7 @@ Edit this file and flip the box when you solve a problem, and strike the title t
 - [x] **Day 1** (2026-10-05, Mon) · [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) 🟢 · _Amazon, Apple, Google_
 - [x] **Day 2** (2026-10-06, Tue) · [Valid Anagram](https://leetcode.com/problems/valid-anagram/) 🟢 · _Amazon, Meta, Bloomberg_
 - [x] **Day 3** (2026-10-07, Wed) · [Two Sum](https://leetcode.com/problems/two-sum/) 🟢 · _Amazon, Google, Apple, Microsoft_
-- [ ] **Day 4** (2026-10-08, Thu) · [Group Anagrams](https://leetcode.com/problems/group-anagrams/) 🟡 · _Amazon, Uber, Meta_
+- [x] **Day 4** (2026-10-08, Thu) · [Group Anagrams](https://leetcode.com/problems/group-anagrams/) 🟡 · _Amazon, Uber, Meta_
 - [ ] **Day 5** (2026-10-09, Fri) · [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) 🟡 · _Amazon, Meta, Google_
 - [ ] **Day 6** (2026-10-10, Sat) · [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) 🟡 · _Amazon, Meta, Apple_
 - [ ] **Day 7** (2026-10-11, Sun) · [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) 🟡 · _Google, Meta, Amazon_
