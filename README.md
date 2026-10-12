@@ -74,7 +74,7 @@ Edit this file and flip the box when you solve a problem, and strike the title t
 - [x] **Day 5** (2026-10-09, Fri) · [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) 🟡 · _Amazon, Meta, Google_
 - [x] **Day 6** (2026-10-10, Sat) · [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) 🟡 · _Amazon, Meta, Apple_
 - [x] **Day 7** (2026-10-11, Sun) · [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) 🟡 · _Google, Meta, Amazon_
-- [ ] **Day 8** (2026-10-12, Mon) · [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) 🔴 · _Amazon, Google, Microsoft_
+- [x] **Day 8** (2026-10-12, Mon) · [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) 🔴 · _Amazon, Google, Microsoft_
 
 ## Two Pointers
 
