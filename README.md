@@ -81,7 +81,7 @@ Edit this file and flip the box when you solve a problem, and strike the title t
 `Day 9-15` · 2026-10-13 → 2026-10-19 · **7 problems**
 
 - [x] **Day 9** (2026-10-13, Tue) · [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) 🟢 · _Meta, Amazon, Microsoft_
-- [ ] **Day 10** (2026-10-14, Wed) · [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) 🟢 · _Amazon, Microsoft_
+- [x] **Day 10** (2026-10-14, Wed) · [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) 🟢 · _Amazon, Microsoft_
 - [ ] **Day 11** (2026-10-15, Thu) · [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) 🟡 · _Amazon, Apple_
 - [ ] **Day 12** (2026-10-16, Fri) · [3Sum](https://leetcode.com/problems/3sum/) 🟡 · _Amazon, Meta, Adobe_
 - [ ] **Day 13** (2026-10-17, Sat) · [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) 🟡 · _Amazon, Google, Bloomberg_
